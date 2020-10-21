@@ -9,6 +9,7 @@ For assembling this converter:
 * 1x Converter pcb
 * 1x Arduino Pro Micro clone (Mini OR Micro-usb, PCB supports both)
 * 1x RJ9 PCB-mount connector such as [this one](https://www.aliexpress.com/item/1974919975.html?spm=a2g0s.9042311.0.0.3ab54c4dBx8Llu)
+* 4x M3 mounting hardware (Screws and/or standoffs)
 
 It is recommended to socket the Pro Micro controller by using [hotswap sockets](http://www.40percent.club/2018/03/sockets.html), there's plenty to choose from.
 
