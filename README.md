@@ -4,7 +4,7 @@ This project is merely a helper to make Wyse converter building more accessible.
 
 Meant to work with Soarer's Wyseverter, documented [in this GeekHack post](https://geekhack.org/index.php?topic=52597.0)
 
-![pcb](./docs/wyse-converter-pcb.png)
+![pcb](./docs/Wyse-converter-pcb.png)
 
 ## Assembly
 For assembling this converter:  
