@@ -21,7 +21,7 @@ Flash the firmware using avrdude or QMK Toolbox and you're good to go !
 
 ## Case
 
-Currently WIP, will be uploaded into this repo once completed !
+Download the case from [Printables](https://www.printables.com/model/273160-wyse-converter-enclosure)
 
 ## Connector pinout
 ![](./docs/connector_wyse.png)
